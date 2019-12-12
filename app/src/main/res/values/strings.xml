@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleBackup</string>
+    <string name="button_check">检查</string>
+    <string name="textView_content">内容</string>
+    <string name="psk_mode">加密方式</string>
+    <string name="password">密码</string>
+    <string name="ssid_name">TextView</string>
+    <string name="textView">TextView1</string>
+</resources>
