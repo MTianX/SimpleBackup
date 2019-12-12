@@ -6,4 +6,10 @@
     <string name="password">密码</string>
     <string name="ssid_name">TextView</string>
     <string name="textView">TextView1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_backup">备份</string>
+    <string name="button_restore">还原</string>
+    <string name="button_checkwifi">扫描wifi</string>
 </resources>
